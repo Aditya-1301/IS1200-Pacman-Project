@@ -1,0 +1,115 @@
+setDisplay2d(1, 0, 49, 0);
+	setDisplay2d(76, 0, 49, 0);
+
+	setDisplay2d(0, 0, 0, 30); ///
+	setDisplay2d(50, 0, 0, 5);
+	setDisplay2d(76, 0, 0, 5);
+	setDisplay2d(127, 0, 0, 30); ///
+
+	setDisplay2d(1, 31, 125, 0); ///
+
+	setDisplay2d(6, 6, 13, 0);
+	setDisplay2d(25, 6, 3, 0);
+	setDisplay2d(34, 6, 10, 0);
+	setDisplay2d(83, 6, 19, 0);
+	setDisplay2d(108, 6, 13, 0);
+
+    setDisplay2d(6, 6, 0, 3);
+	setDisplay2d(19, 6, 0, 3);
+	setDisplay2d(25, 6, 0, 3);
+	setDisplay2d(28, 6, 0, 3);
+	setDisplay2d(108, 6, 0, 3);
+	setDisplay2d(121, 6, 0, 3);
+
+	setDisplay2d(6, 9, 13, 0);
+	setDisplay2d(25, 9, 3, 0);
+	setDisplay2d(108, 9, 13, 0);
+
+	setDisplay2d(34, 6, 0, 10);
+	setDisplay2d(44, 6, 0, 10);
+
+	setDisplay2d(83, 6, 0, 3);
+	setDisplay2d(102, 6, 0, 8);
+
+	setDisplay2d(34, 16, 10, 0);
+
+	setDisplay2d(36, 8, 6, 0);
+	setDisplay2d(36, 8, 0, 6);
+	setDisplay2d(42, 8, 0, 6);
+	setDisplay2d(36, 13, 6, 0);
+
+	setDisplay2d(36, 14, 0, 0);
+	setDisplay2d(39, 8, 0, 6);
+	setDisplay2d(42, 14, 0, 0);
+
+	setDisplay2d(36, 8, 0, 6);
+
+	setDisplay2d(51, 12, 5, 0);
+	setDisplay2d(51, 12, 0, 4);
+	setDisplay2d(56, 12, 0, 4);
+	setDisplay2d(51, 16, 5, 0);
+
+	setDisplay2d(53, 14, 1, 0);
+
+	setDisplay2d(83, 9, 16, 0);
+	setDisplay2d(99, 9, 0, 8);
+	setDisplay2d(102, 14, 14, 0);
+	setDisplay2d(116, 14, 0, 3);
+
+	setDisplay2d(99, 17, 16, 0);
+	
+	setDisplay2d(62, 12, 14, 0);
+	setDisplay2d(62, 12, 0, 9);
+	setDisplay2d(66, 15, 0, 9);
+	setDisplay2d(51, 22, 11, 0);
+
+	setDisplay2d(11, 14, 17, 0);
+	setDisplay2d(11, 14, 0, 3);
+	setDisplay2d(11, 14, 0, 3);
+	setDisplay2d(28, 14, 0, 8);
+	setDisplay2d(25, 17, 0, 8);
+	setDisplay2d(11, 17, 14, 0);
+	setDisplay2d(25, 25, 19, 0);
+	setDisplay2d(44, 22, 0, 3);
+
+	setDisplay2d(28, 22, 16, 0);
+
+	setDisplay2d(6, 23, 13, 0);
+	setDisplay2d(6, 23, 0, 2);
+	setDisplay2d(19, 23, 0, 2);
+	setDisplay2d(6, 25, 13, 0);
+
+	setDisplay2d(51, 22, 0, 3);
+	setDisplay2d(51, 25, 15, 0);
+    setDisplay2d(66, 15, 10, 0);
+	setDisplay2d(77, 12, 0, 3);
+
+    setDisplay2d(72, 21, 4, 0);
+    setDisplay2d(72, 21, 0, 4);
+	setDisplay2d(77, 21, 0, 4);
+	setDisplay2d(72, 25, 4, 0);
+	setDisplay2d(74, 23, 1, 0);
+
+	setDisplay2d(83, 15, 9, 0);
+	setDisplay2d(83, 15, 0, 9);
+	setDisplay2d(93, 15, 0, 9);
+	setDisplay2d(83, 25, 10, 0);
+
+    setDisplay2d(85, 17, 0, 5);
+	setDisplay2d(88, 17, 0, 5); 
+	setDisplay2d(91, 17, 0, 6);
+
+	setDisplay2d(85, 18, 5, 0);
+	setDisplay2d(85, 23, 5, 0);
+
+	setDisplay2d(99, 23, 2, 0);
+	setDisplay2d(99, 25, 2, 0);
+	setDisplay2d(99, 23, 0, 2);
+	setDisplay2d(102, 23, 0, 2);
+
+    setDisplay2d(109, 23, 12, 0);
+	setDisplay2d(109, 25, 12, 0);
+	setDisplay2d(109, 23, 0, 2);
+	setDisplay2d(121, 23, 0, 2);
+
+	setDisplay2d(50, 6, 26, 0);
